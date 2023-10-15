@@ -1,0 +1,271 @@
+unitcode,knowledge_units
+CITS4009,Data mining and knowledge discovery
+CITS4009,Exploratory and confirmatory data analysis
+CITS4009,"Big Data algorithms for data ingest, pre-processing, and visualisation"
+CITS4009,NoSQL databases
+CITS4009,Data Mining
+CITS5504,"Data architectures (OLAP, OLTP, ETL)"
+CITS5504,"Data Modelling, Databases and Database Management Systems"
+CITS5504,NoSQL databases
+CITS5504,Data Models and Query Languages
+CITS5504,Database design and models
+CITS5504,Database administration
+CITS5504,Data warehouses
+CITS5504,Data Warehousing and Business Intelligence
+CITS5504,"Metadata, linked data, provenance"
+CITS5504,Machine Learning theory and algorithms
+CITS5504,Unsupervised Machine Learning
+CITS5504,Data mining and knowledge discovery
+CITS5504,Graph data analytics
+CITS5504,"Feature selection, Apriori algorithm"
+CITS4012,Natural Language Processing
+CITS4012,Sentiments analysis
+CITS4012,Information Extraction
+CITS4012,Data mining and text analytics
+CITS4012,"Text analytics including statistical, linguistic, and structural techniques to analyse structured and unstructured data"
+CITS4407,"Research data infrastructure, Open Science, Open Data, Open Access, ORCID"
+CITS4407,Data infrastructure compliance and certification
+CITS4407,"Big Data (large scale) storage and filesystems (HDFS, Ceph, etc)"
+CITS5508,Machine Learning theory and algorithms
+CITS5508,Supervised Machine Learning
+CITS5508,Unsupervised Machine Learning
+CITS5508,Reinforced learning
+CITS5508,Classification methods
+CITS5508,Artificial Intelligence
+CITS5553,Project Integration Management PMI-BoK selected KAs
+CITS5553,Project Scope Management
+CITS5553,Project Quality
+CITS5553,Project Risk Management
+CITS5553,Exploratory and confirmatory data analysis
+CITS5553,"Big Data algorithms for data ingest, pre-processing, and visualisation"
+CITS5553,Data selection and quality evaluation
+CITS5553,Data lifecycle
+STAT4064,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+STAT4064,Predictive modeling and analytics
+STAT4064,Inferential and predictive statistics
+STAT4064,Machine Learning for predictive analytics
+STAT4064,Generalised linear models
+STAT4064,Regression and Multi Analysis
+STAT4064,Time series analysis and forecasting
+STAT4064,Deploying and refining predictive models
+STAT4064,"Programming languages for Big Data analytics: R, python, Pig, Hive, others"
+STAT4066,"Probabilistic representations (causal networks, Bayesian analysis, Markov nets)"
+STAT4066,Frequentist and Bayesian statistics
+STAT4066,"Markov models, Markov networks"
+BUSN5003,Models and languages for complex interlinked data presentation and visualisation
+BUSN5003,"Programming languages for Big Data analytics: R, python, Pig, Hive, others"
+BUSN5003,"Business Analytics and Business Intelligence: Data, Models (statistical) and Decisions"
+BUSN5003,Data Analysis and Statistics
+CITS4402,Machine Learning theory and algorithms
+CITS4402,Supervised Machine Learning
+CITS4402,Probability & Statistics
+CITS4402,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+CITS4402,Multimedia information systems
+CITS4402,"Research methodology, paradigms and research cycle"
+CITS4402,Modelling and experiment planning
+CITS4403,Modelling and simulation theory and techniques (general and domain oriented)
+CITS4403,Operations research and optimisation
+CITS4403,"Research methodology, paradigms and research cycle"
+CITS4403,Modelling and experiment planning
+CITS4403,Data storage and operations
+CITS4403,Data security and protection
+CITS4403,Decision Analysis and Decision Support Systems
+CITS4403,Data Analysis and statistics
+CITS4404,Machine Learning theory and algorithms
+CITS4404,Supervised Machine Learning
+CITS4404,Unsupervised Machine Learning
+CITS4404,"Research methodology, paradigms and research cycle"
+CITS4404,Modelling and experiment planning
+CITS4404,Modelling and simulation theory and techniques (general and domain oriented)
+CITS4404,Decision Analysis and Decision Support Systems
+CITS4404,Artificial Intelligence
+CITS4404,"Programming languages for Big Data analytics: R, python, Pig, Hive, others"
+CITS4404,Models and languages for complex interlinked data presentation and visualisation
+CITS4419,Computer networks for high-performance computing and Big Data infrastructure
+CITS4419,Computer networks: architectures and protocols
+CITS4419,Cloud Computing architecture and services
+CITS4419,"Infrastructure, applications and data security"
+CITS4419,Access Control and Identiy Management
+CITS4419,"Data encryption and key management, blockchain based technologies"
+CITS4419,Computer networks: architectures and protocols
+CITS4419,Data curation
+CITS4419,Data provenance
+CITS4419,"Responsible data use, data privacy, ethical principles, IPR, legal issues"
+CITS5014,"Research methodology, paradigms and research cycle"
+CITS5014,Modelling and experiment planning
+CITS5014,Data selection and quality evaluation
+CITS5014,Use cases analysis: research infrastructures and projects
+CITS5014,"Data analytics, data handling software requirements and design"
+CITS5014,"Programming languages for Big Data analytics: R, python, Pig, Hive, others"
+CITS5014,Models and languages for complex interlinked data presentation and visualisation
+CITS5014,Data storage and operations
+CITS5014,Data security and protection
+CITS5014,Data Analysis and statistics
+CITS5014,Project Integration Management
+CITS5014,Project Quality
+CITS5015,"Research methodology, paradigms and research cycle"
+CITS5015,Modelling and experiment planning
+CITS5015,Data selection and quality evaluation
+CITS5015,Use cases analysis: research infrastructures and projects
+CITS5015,"Data analytics, data handling software requirements and design"
+CITS5015,"Programming languages for Big Data analytics: R, python, Pig, Hive, others"
+CITS5015,Data Analysis and statistics
+CITS5015,Project Integration Management
+CITS5015,Project Quality
+CITS5015,Data storage and operations
+CITS5015,Data security and protection
+CITS5503,Cloud Computing architecture and services
+CITS5503,"Cloud Computing Engineering (infrastructure and services design, management and operation)"
+CITS5503,Cloud based applications and services operation and management
+CITS5503,"Infrastructure, applications and data security"
+CITS5503,"Data encryption and key management, blockchain based technologies"
+CITS5503,Access Control and Identiy Management
+CITS5503,"Security services management, including compliance and certification"
+CITS5503,"Big Data analytics platforms and tools (including Hadoop, Spark, and cloud based Big Data services)"
+CITS5503,"Data processing models (batch, steaming, parallel)"
+CITS5503,Data storage and operations
+CITS5503,Data security and protection
+CITS5505,Multimedia information systems
+CITS5505,Collaborative and social computing systems and tools
+CITS5505,"Data architectures (OLAP, OLTP, ETL)"
+CITS5505,"Data Modelling, Databases and Database Management Systems"
+CITS5505,Middleware for databases
+CITS5505,"Programming languages for Big Data analytics: R, python, Pig, Hive, others"
+CITS5505,Models and languages for complex interlinked data presentation and visualisation
+CITS5505,"Agile development methods, platforms and tools"
+CITS5505,DevOps and continuous deployment and improvement paradigm
+CITS5505,Project Integration Management
+CITS5505,Project Quality
+CITS5506,Computer networks for high-performance computing and Big Data infrastructure
+CITS5506,Computer networks: architectures and protocols
+CITS5506,Cloud Computing architecture and services
+CITS5506,"Infrastructure, applications and data security"
+CITS5506,"Data encryption and key management, blockchain based technologies"
+CITS5506,Access Control and Identiy Management
+CITS5506,Multimedia information systems
+CITS5506,Enterprise information systems
+CITS5506,Data storage and operations
+CITS5506,Data security and protection
+CITS5507,Parallel and Distributed Computer Architecture
+CITS5507,High Performance and Cloud Computing
+CITS5507,Computer networks for high-performance computing and Big Data infrastructure
+CITS5507,Data storage and operations
+CITS5507,Data security and protection
+CITS5507,Modelling and simulation theory and techniques (general and domain oriented)
+CITS5507,Operations research and optimisation
+CITS5507,Large scale modelling and simulation systems
+CITS5507,"Programming languages for Big Data analytics: R, python, Pig, Hive, others"
+CITS5507,"Big Data analytics platforms and tools (including Hadoop, Spark, and cloud based Big Data services)"
+CITS5507,Large scale cloud based storage and data management
+GENG5505,Project Integration Management
+GENG5505,Project Scope Management
+GENG5505,Project Quality
+GENG5505,Project Risk Management
+GENG5505,Business processes and operations
+GENG5505,Project scope and risk management
+GENG5505,Business Analysis Planning and Monitoring
+GENG5505,Requirements Analysis and Design Definition
+GENG5505,Requirements Life Cycle Management (from inception to retirement)
+GENG5505,Solution Evaluation and improvements recommendation
+GENG5505,"Agile Data Driven methodologies, processes and enterprises"
+GENG5505,Use cases analysis: business and industry
+GENG5505,"Data governance, data quality, data Integration and Interoperability"
+GENG5505,Data Management Planning
+GENG5505,Data Management Policy
+GENG5505,Data interoperability
+GENG5505,Data curation
+GENG5505,Data provenance
+GENG5505,"Responsible data use, data privacy, ethical principles, IPR, legal issues"
+INMT5526,"Data Modelling, Databases and Database Management Systems"
+INMT5526,Database design and models
+INMT5526,"Business Analytics and Business Intelligence: Data, Models (statistical) and Decisions"
+INMT5526,NoSQL databases
+INMT5526,"Data governance, data quality, data Integration and Interoperability"
+INMT5526,"Responsible data use, data privacy, ethical principles, IPR, legal issues"
+MGMT5504,Probability & Statistics
+MGMT5504,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+MGMT5504,Probabilistic reasoning
+MGMT5504,Exploratory and confirmatory data analysis
+MGMT5504,Quantitative analytics
+MGMT5504,Performance analysis
+MGMT5504,Predictive modeling and analytics
+MGMT5504,Inferential and predictive statistics
+MGMT5504,Time series analysis and forecasting
+MGMT5504,"Business Analytics and Business Intelligence: Data, Models (statistical) and Decisions"
+MGMT5504,Data Management Policy
+MGMT5504,Data interoperability
+MGMT5504,"Data Management, including Reference and Master Data"
+PHYS4021,Information theory
+PHYS4021,Mathematical analysis
+PHYS4021,Machine Learning theory and algorithms
+PHYS4021,Modelling and simulation theory and techniques (general and domain oriented)
+PHYS4021,Operations research and optimisation
+PUBH4401,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+PUBH4401,Exploratory and confirmatory data analysis
+PUBH4401,Quantitative analytics
+PUBH4401,Predictive modeling and analytics
+PUBH4401,Regression and Multi Analysis
+PUBH4401,Generalized linear models
+PUBH4401,"Business Analytics and Business Intelligence: Data, Models (statistical) and Decisions"
+PUBH4401,Data Analysis and statistics
+PUBH4401,Probability & Statistics
+PUBH4401,Supervised Machine Learning
+PUBH4401,"Research methodology, paradigms and research cycle"
+PUBH5769,Probability & Statistics
+PUBH5769,Exploratory and confirmatory data analysis
+PUBH5769,Quantitative analytics
+PUBH5769,Predictive modeling and analytics
+PUBH5769,Regression and Multi Analysis
+PUBH5769,Supervised Machine Learning
+PUBH5769,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+PUBH5769,"Research methodology, paradigms and research cycle"
+PUBH5769,"Business Analytics and Business Intelligence: Data, Models (statistical) and Decisions"
+PUBH5769,Data Analysis and statistics
+PUBH5785,Probability & Statistics
+PUBH5785,Exploratory and confirmatory data analysis
+PUBH5785,Quantitative analytics
+PUBH5785,Mathematical software and tools
+PUBH5785,Data Analysis and statistics
+PUBH5785,Data warehousing and Data Mining
+PUBH5785,"Research methodology, paradigms and research cycle"
+PUBH5785,Predictive modeling and analytics
+PUBH5785,Regression and Multi Analysis
+PUBH5785,Time series analysis and forecasting
+PUBH5785,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+PUBH5785,"Business Analytics and Business Intelligence: Data, Models (statistical) and Decisions"
+PUBH5785,Supervised Machine Learning
+PUBH5802,Probability & Statistics
+PUBH5802,Exploratory and confirmatory data analysis
+PUBH5802,Quantitative analytics
+PUBH5802,Mathematical software and tools
+PUBH5802,Predictive modeling and analytics
+PUBH5802,Regression and Multi Analysis
+PUBH5802,Time series analysis and forecasting
+PUBH5802,Supervised Machine Learning
+PUBH5802,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+PUBH5802,"Business Analytics and Business Intelligence: Data, Models (statistical) and Decisions"
+PUBH5802,"Research methodology, paradigms and research cycle"
+PUBH5802,Data Analysis and statistics
+PUBH5802,Data warehousing and Data Mining
+STAT4063,Probability & Statistics
+STAT4063,Probabilistic reasoning
+STAT4063,Quantitative analytics
+STAT4063,Mathematical software and tools
+STAT4063,Supervised Machine Learning
+STAT4063,Unsupervised Machine Learning
+STAT4063,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+STAT4063,Probabilistic reasoning
+STAT4063,Data Analysis and statistics
+STAT4065,Probability & Statistics
+STAT4065,Quantitative analytics
+STAT4065,Regression and Multi Analysis
+STAT4065,Time series analysis and forecasting
+STAT4065,Supervised Machine Learning
+STAT4065,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+STAT4065,"Research methodology, paradigms and research cycle"
+STAT5061,Supervised Machine Learning
+STAT5061,Unsupervised Machine Learning
+STAT5061,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+STAT5061,Probability & Statistics
+STAT5061,Quantitative analytics
+STAT5061,Machine Learning theory and algorithms

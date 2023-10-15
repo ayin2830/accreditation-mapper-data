@@ -1,0 +1,182 @@
+knowledge_areas,knowledge_units
+Statistical methods for data analysis,Probability & Statistics
+Statistical methods for data analysis,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+Statistical methods for data analysis,"Probabilistic representations (causal networks, Bayesian analysis, Markov nets)"
+Statistical methods for data analysis,Frequentist and Bayesian statistics
+Statistical methods for data analysis,Probabilistic reasoning
+Statistical methods for data analysis,Exploratory and confirmatory data analysis
+Statistical methods for data analysis,Quantitative analytics
+Statistical methods for data analysis,Performance analysis
+Statistical methods for data analysis,"Markov models, Markov networks"
+Statistical methods for data analysis,Operations research
+Statistical methods for data analysis,Information theory
+Statistical methods for data analysis,Discrete Mathematics and Graph Theory
+Statistical methods for data analysis,Mathematical analysis
+Statistical methods for data analysis,Mathematical software and tools
+Machine Learning,Machine Learning theory and algorithms
+Machine Learning,Supervised Machine Learning
+Machine Learning,Unsupervised Machine Learning
+Machine Learning,Reinforced learning
+Machine Learning,Classification methods
+Machine Learning,Design and Analysis of Algorithms
+Machine Learning,Game Theory & Mechanism design
+Machine Learning,Artificial Intelligence
+Machine Learning,"Statistical paradigms (regression, time series, dimensionality, clusters)"
+Machine Learning,"Probabilistic representations (causal networks, Bayesian analysis, Markov nets)"
+Machine Learning,Frequentist and Bayesian statistics
+Machine Learning,Probabilistic reasoning
+Machine Learning,Performance analysis
+Data Mining,Performance analysis
+Data Mining,Machine Learning theory and algorithms
+Data Mining,Supervised Machine Learning
+Data Mining,Unsupervised Machine Learning
+Data Mining,Reinforced learning
+Data Mining,Classification methods
+Data Mining,Data mining and knowledge discovery
+Data Mining,Knowledge Representation and Reasoning
+Data Mining,CRISP-DM and data mining stages
+Data Mining,Anomaly Detection
+Data Mining,Time series analysis
+Data Mining,"Feature selection, Apriori algorithm"
+Data Mining,Graph data analytics
+Text Data Mining,"Text analytics including statistical, linguistic, and structural techniques to analyse structured and unstructured data"
+Text Data Mining,Data mining and text analytics
+Text Data Mining,Natural Language Processing
+Text Data Mining,Predictive Models for Text
+Text Data Mining,Retrieval and Clustering of Documents
+Text Data Mining,Information Extraction
+Text Data Mining,Sentiments analysis
+Predictive Analytics,Predictive modeling and analytics
+Predictive Analytics,Inferential and predictive statistics
+Predictive Analytics,Machine Learning for predictive analytics
+Predictive Analytics,Regression and Multi Analysis
+Predictive Analytics,Generalised linear models
+Predictive Analytics,Time series analysis and forecasting
+Predictive Analytics,Deploying and refining predictive models
+Computational Modelling simulation and Optimisation,Modelling and simulation theory and techniques (general and domain oriented)
+Computational Modelling simulation and Optimisation,Operations research and optimisation
+Computational Modelling simulation and Optimisation,Large scale modelling and simulation systems
+Computational Modelling simulation and Optimisation,Network oprtimisation
+Computational Modelling simulation and Optimisation,Risk simulation and queueing
+Big Data Infrastructure and Technologies,"Computer systems organisation for Big Data applications, CAP, BASE and ACID theorems"
+Big Data Infrastructure and Technologies,Parallel and Distributed Computer Architecture
+Big Data Infrastructure and Technologies,High Performance and Cloud Computing
+Big Data Infrastructure and Technologies,Clouds and scalable computing
+Big Data Infrastructure and Technologies,Cloud based Big Data platforms and services
+Big Data Infrastructure and Technologies,"Big Data (large scale) storage and filesystems (HDFS, Ceph, etc)"
+Big Data Infrastructure and Technologies,NoSQL databases
+Big Data Infrastructure and Technologies,Computer networks for high-performance computing and Big Data infrastructure
+Big Data Infrastructure and Technologies,Computer networks: architectures and protocols
+Big Data Infrastructure and Technologies,Big Data Infrastructure management and operation
+Infrastructure and platforms for Data Science applications,"Big Data Infrastructure: services and components, including data storage infrastructure"
+Infrastructure and platforms for Data Science applications,"Big Data analytics platforms and tools (including Hadoop, Spark, and cloud based Big Data services)"
+Infrastructure and platforms for Data Science applications,Large scale cloud based storage and data management 
+Infrastructure and platforms for Data Science applications,Cloud based applications and services operation and management
+Infrastructure and platforms for Data Science applications,Big Data and cloud based systems design and development
+Infrastructure and platforms for Data Science applications,"Data processing models (batch, steaming, parallel)"
+Infrastructure and platforms for Data Science applications,Enterprise information systems
+Infrastructure and platforms for Data Science applications,Data security and protection
+Cloud Computing technologies for Big Data and Data Analytics,Cloud Computing architecture and services
+Cloud Computing technologies for Big Data and Data Analytics,"Cloud Computing Engineering (infrastructure and services design, management and operation)"
+Cloud Computing technologies for Big Data and Data Analytics,Cloud based applications and services operation and management
+Data and Applications security,"Infrastructure, applications and data security"
+Data and Applications security,"Data encryption and key management, blockchain based technologies"
+Data and Applications security,Access Control and Identiy Management
+Data and Applications security,"Security services management, including compliance and certification"
+Data and Applications security,Data anonymisation
+Data and Applications security,Data privacy
+Big Data systems organisation and engineering,Big Data systems organisation and design
+Big Data systems organisation and engineering,Big Data algorithms for large scale data processing
+Big Data systems organisation and engineering,Big Data Analytics
+Big Data systems organisation and engineering,"Big Data analytics platforms and tools (including Hadoop, Spark, and cloud based Big Data services)"
+Big Data systems organisation and engineering,"Big Data algorithms for data ingest, pre-processing, and visualisation"
+Big Data systems organisation and engineering,Big Data systems for application domains
+Big Data systems organisation and engineering,Big Data software (systems) architectures
+Big Data systems organisation and engineering,Requirements engineering and software systems development
+Big Data systems organisation and engineering,Large and ultra-large scale software systems organisation
+Big Data systems organisation and engineering,DevOps and cloud enabled applications development
+Big Data systems organisation and engineering,Big Data Infrastructure management and operation
+Data Science (Big Data) applications design,"Data analytics, data handling software requirements and design"
+Data Science (Big Data) applications design,Applications engineering management
+Data Science (Big Data) applications design,Software engineering models and methods
+Data Science (Big Data) applications design,Software quality assurance
+Data Science (Big Data) applications design,"Programming languages for Big Data analytics: R, python, Pig, Hive, others"
+Data Science (Big Data) applications design,Models and languages for complex interlinked data presentation and visualisation
+Data Science (Big Data) applications design,"Agile development methods, platforms and tools"
+Data Science (Big Data) applications design,DevOps and continuous deployment and improvement paradigm
+Information systems,Decision Analysis and Decision Support Systems
+Information systems,Predictive analytics and predictive forecasting
+Information systems,Data Analysis and statistics
+Information systems,Data warehousing and Data Mining
+Information systems,Data Mining
+Information systems,Multimedia information systems
+Information systems,Enterprise information systems
+Information systems,Collaborative and social computing systems and tools
+General principles and concepts in Data Management and organisation,"Data type registries, PID, metadata"
+General principles and concepts in Data Management and organisation,Data Lifecycle Management
+General principles and concepts in Data Management and organisation,Data infrastructure and Data Factories
+General principles and concepts in Data Management and organisation,"Research data infrastructure, Open Science, Open Data, Open Access, ORCID"
+General principles and concepts in Data Management and organisation,Data infrastructure compliance and certification
+General principles and concepts in Data Management and organisation,Ethical principle and data privacy
+General principles and concepts in Data Management and organisation,"FAIR (Findable, Accessible, Interoperable, ) principles in Data Management"
+Data management systems,"Data architectures (OLAP, OLTP, ETL)"
+Data management systems,"Data Modelling, Databases and Database Management Systems"
+Data management systems,Data structures
+Data management systems,Data Models and Query Languages
+Data management systems,Database design and models
+Data management systems,Database administration
+Data management systems,Data warehouses
+Data management systems,Middleware for databases
+Data Management and Enterprise data infrastructure,"Data management, including Reference and Master Data"
+Data Management and Enterprise data infrastructure,Data Warehousing and Business Intelligence
+Data Management and Enterprise data infrastructure,Data storage and operations
+Data Management and Enterprise data infrastructure,Data archives/storage compliance and certification
+Data Management and Enterprise data infrastructure,"Metadata, linked data, provenance"
+Data Management and Enterprise data infrastructure,"Data infrastructure, data registries and data factories"
+Data Management and Enterprise data infrastructure,Data security and protection
+Data Management and Enterprise data infrastructure,Data backup
+Data Management and Enterprise data infrastructure,Data anonymisation
+Data Management and Enterprise data infrastructure,Data Privacy
+Data Governance,"Data governance, data quality, data Integration and Interoperability"
+Data Governance,Data Management Planning
+Data Governance,Data Management Policy
+Data Governance,Data interoperability
+Data Governance,Data curation
+Data Governance,Data provenance
+Data Governance,"Responsible data use, data privacy, ethical principles, IPR, legal issues"
+Big Data storage (large scale),Big Data storage infrastructure and operations
+Big Data storage (large scale),"Storage architectures, distributed files systems (HDFS, Ceph, Lustre, Gluster, etc)"
+Big Data storage (large scale),Data storage redundancy and backup
+Big Data storage (large scale),"Data factories, data pipelines"
+Big Data storage (large scale),"Cloud based storage, Data Lakes"
+Digital libraries and archives,Digital libraries and archives organisation
+Digital libraries and archives,Information Retrieval
+Digital libraries and archives,Data curation and provenance
+Digital libraries and archives,Search Engines technologies
+Research Methods,"Research methodology, paradigms and research cycle"
+Research Methods,Modelling and experiment planning
+Research Methods,Data selection and quality evaluation
+Research Methods,Data lifecycle
+Research Methods,Use cases analysis: research infrastructures and projects
+Research Methods,Research data management plan and ethical issues
+Project Management,Project Integration Management 
+Project Management,Project Scope Management
+Project Management,Project Quality
+Project Management,Project Risk Management
+Business Analytics Foundation,"Business Analytics and Business Intelligence: Data, Models (statistical) and Decisions"
+Business Analytics Foundation,"Data driven Customer Relations Management (CRP), User Experience (UX) requirements and design"
+Business Analytics Foundation,Operations Analytics
+Business Analytics Foundation,Business Process Optimization
+Business Analytics Foundation,"Data Warehouses technologies, data integration and analytics"
+Business Analytics Foundation,Data driven marketing technologies
+Business Analytics Foundation,Business Analytics Capstone
+Business Analytics Foundation,Econometrics methods and application for Business Analytics
+Business Analytics Foundation,Cognitive technologies for Business Analytics
+Business Analytics organisation and enterprise management,Business processes and operations
+Business Analytics organisation and enterprise management,Project scope and risk management
+Business Analytics organisation and enterprise management,Business Analysis Planning and Monitoring
+Business Analytics organisation and enterprise management,Requirements Analysis and Design Definition
+Business Analytics organisation and enterprise management,Requirements Life Cycle Management (from inception to retirement)
+Business Analytics organisation and enterprise management,Solution Evaluation and improvements recommendation
+Business Analytics organisation and enterprise management,"Agile Data Driven methodologies, processes and enterprises"
+Business Analytics organisation and enterprise management,Use cases analysis: business and industry
